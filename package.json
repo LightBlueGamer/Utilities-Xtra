@@ -1,0 +1,19 @@
+{
+  "name": "utilities-xtra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@joshdb/core": "^1.2.5",
+    "@joshdb/sqlite": "^1.1.9",
+    "discord.js": "^13.0.1",
+    "nodemon": "^2.0.12",
+    "pretty-ms": "^7.0.1"
+  }
+}
